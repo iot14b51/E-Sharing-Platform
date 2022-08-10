@@ -1,0 +1,35 @@
+﻿<div class="container">
+    <table class="table table-bordered table-hover ">
+        <tr class="bg-warning text-black">
+            
+            <th>ProductName</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            
+           
+        </tr>
+        @{
+                if (TempData["products"] != null)
+                {
+                    foreach (var x in (List<ProjectK.Models.Products>)TempData["products"])
+                    {
+                        <tr>
+                            
+                            <td>@x.ProductName</td>
+                            <td>@x.Quantity</td>
+                            <td>@x.Price</td>
+                        </tr>
+
+                    }
+                }
+            
+                
+            
+        
+
+      }
+
+    </table>
+
+</div>
+

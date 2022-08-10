@@ -1,0 +1,30 @@
+﻿<div class="container">
+    <table class="table table-bordered table-hover ">
+        <tr class="bg-success text-white">
+            
+            <th>ServicName</th>
+            <th>Price</th>
+            
+           
+        </tr>
+        @{
+            
+ 
+                    foreach (var x in (List<ProjectK.Models.Services>)TempData["services"])
+                    {
+                                <tr>
+                                   
+                                    <td>@x.ServiceName</td>
+                                    <td>@x.Price</td>
+                                    
+                                </tr>
+                        
+                    }
+            
+        
+
+      }
+
+    </table>
+
+</div>

@@ -1,0 +1,59 @@
+﻿<div class="container">
+    <table class="table table-bordered table-hover ">
+         <tr class="bg-success text-white">
+            <th>FirstName</th>
+            <th>LastName</th>
+            <th>DOB</th>
+            <th>Gender</th>
+            <th>ContactNumber</th>
+            <th>Address</th>
+            <th>City</th>
+            <th>State</th>
+            <th>Zip</th>
+            <th>Email</th>
+           
+            <th>VendorId</th>
+            
+            
+           
+           
+        </tr>
+        @{
+            try
+            {
+                if(TempData["VendorM"]!=null)
+                {
+                    foreach (var x in (List<ProjectK.Models.Vendor>)TempData["VendorM"])
+                    {
+                                <tr>
+                                    
+                                    <td>@x.FirstName</td>
+                                    <td>@x.LastName</td>
+                                    <td>@x.DOB</td>
+                                    <td>@x.Gender</td>
+                                    <td>@x.ContactNumber</td>
+                                    <td>@x.Address</td>
+                                    <td>@x.City</td>
+                                    <td>@x.State</td>
+                                    <td>@x.zip</td>
+                                    <td>@x.Email</td>
+                                    
+                                    <td>@x.VendorId</td>
+                                    
+                                    
+                                </tr>
+                        
+                    }
+                }
+            }
+            catch
+            {
+                
+            }
+        }
+
+
+
+    </table>
+
+</div>

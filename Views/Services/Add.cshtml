@@ -1,0 +1,59 @@
+﻿@model ProjectK.Models.Services
+
+@{
+    ViewData["Title"] = "Add";
+}
+
+<h1>Add Service</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Add">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ServiceName" class="control-label"></label>
+                <input asp-for="ServiceName" class="form-control" />
+                <span asp-validation-for="ServiceName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <input type="submit" value="Submit" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@{
+    try
+    {
+        if(TempData["status"] !=null)
+        {
+            if(TempData["status"] == "1")
+            {
+                <script>
+                swal("Successful!", "Service Added Successfully", "success");
+                </script>
+            }
+            
+        }
+    }
+    catch
+    {
+        
+    }
+}
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

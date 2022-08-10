@@ -1,0 +1,1052 @@
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\appsettings.Development.json
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\appsettings.json
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ProjectK.staticwebassets.runtime.json
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ProjectK.exe
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ProjectK.deps.json
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ProjectK.runtimeconfig.json
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ProjectK.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ProjectK.pdb
+D:\MVC ProjectS\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.csproj.AssemblyReference.cache
+D:\MVC ProjectS\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC ProjectS\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.AssemblyInfoInputs.cache
+D:\MVC ProjectS\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.AssemblyInfo.cs
+D:\MVC ProjectS\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.csproj.CoreCompileInputs.cache
+D:\MVC ProjectS\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.MvcApplicationPartsAssemblyInfo.cache
+D:\MVC ProjectS\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.RazorAssemblyInfo.cache
+D:\MVC ProjectS\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.RazorAssemblyInfo.cs
+D:\MVC ProjectS\ProjectK\ProjectK\obj\Debug\net6.0\staticwebassets.build.json
+D:\MVC ProjectS\ProjectK\ProjectK\obj\Debug\net6.0\staticwebassets.development.json
+D:\MVC ProjectS\ProjectK\ProjectK\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MVC ProjectS\ProjectK\ProjectK\obj\Debug\net6.0\scopedcss\bundle\ProjectK.styles.css
+D:\MVC ProjectS\ProjectK\ProjectK\obj\Debug\net6.0\scopedcss\projectbundle\ProjectK.bundle.scp.css
+D:\MVC ProjectS\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.dll
+D:\MVC ProjectS\ProjectK\ProjectK\obj\Debug\net6.0\refint\ProjectK.dll
+D:\MVC ProjectS\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.pdb
+D:\MVC ProjectS\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.genruntimeconfig.cache
+D:\MVC ProjectS\ProjectK\ProjectK\obj\Debug\net6.0\ref\ProjectK.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Humanizer.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\MessagePack.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\NuGet.Common.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVC ProjectS\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\MVC ProjectS\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.csproj.CopyComplete
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\appsettings.json
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ProjectK.staticwebassets.runtime.json
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ProjectK.exe
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ProjectK.deps.json
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ProjectK.runtimeconfig.json
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ProjectK.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ProjectK.pdb
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\MessagePack.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.csproj.AssemblyReference.cache
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.AssemblyInfoInputs.cache
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.AssemblyInfo.cs
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.csproj.CoreCompileInputs.cache
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.RazorAssemblyInfo.cache
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.RazorAssemblyInfo.cs
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\scopedcss\bundle\ProjectK.styles.css
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\scopedcss\projectbundle\ProjectK.bundle.scp.css
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.csproj.CopyComplete
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\refint\ProjectK.dll
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.pdb
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.genruntimeconfig.cache
+C:\Users\nanaj\Downloads\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ref\ProjectK.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\appsettings.Development.json
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\appsettings.json
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ProjectK.staticwebassets.runtime.json
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ProjectK.exe
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ProjectK.deps.json
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ProjectK.runtimeconfig.json
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ProjectK.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ProjectK.pdb
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Humanizer.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\MessagePack.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\NuGet.Common.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.csproj.AssemblyReference.cache
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.GeneratedMSBuildEditorConfig.editorconfig
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.AssemblyInfoInputs.cache
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.AssemblyInfo.cs
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.csproj.CoreCompileInputs.cache
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.MvcApplicationPartsAssemblyInfo.cache
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.RazorAssemblyInfo.cache
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.RazorAssemblyInfo.cs
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\staticwebassets.build.json
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\staticwebassets.development.json
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\scopedcss\bundle\ProjectK.styles.css
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\scopedcss\projectbundle\ProjectK.bundle.scp.css
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.csproj.CopyComplete
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\refint\ProjectK.dll
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.pdb
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ProjectK.genruntimeconfig.cache
+D:\stackroute\swathi\ProjectK-20220702T143548Z-001\ProjectK\obj\Debug\net6.0\ref\ProjectK.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\appsettings.json
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ProjectK.staticwebassets.runtime.json
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ProjectK.exe
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ProjectK.deps.json
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ProjectK.runtimeconfig.json
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ProjectK.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ProjectK.pdb
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\MessagePack.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.csproj.AssemblyReference.cache
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.AssemblyInfoInputs.cache
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.AssemblyInfo.cs
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.csproj.CoreCompileInputs.cache
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.RazorAssemblyInfo.cache
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.RazorAssemblyInfo.cs
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\obj\Debug\net6.0\scopedcss\bundle\ProjectK.styles.css
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\obj\Debug\net6.0\scopedcss\projectbundle\ProjectK.bundle.scp.css
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.csproj.CopyComplete
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\obj\Debug\net6.0\refint\ProjectK.dll
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.pdb
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\obj\Debug\net6.0\ProjectK.genruntimeconfig.cache
+C:\Users\nanaj\Downloads\ProjectK\ProjectK\obj\Debug\net6.0\ref\ProjectK.dll

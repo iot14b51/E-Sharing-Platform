@@ -1,0 +1,43 @@
+﻿
+<div class="container">
+    <table class="table table-bordered table-hover ">
+         <tr class="bg-success text-white">
+            
+            <th>ProductName</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Actions</th>
+           
+        </tr>
+        @{
+            try
+            {
+                if(TempData["products"]!=null)
+                {
+                    foreach (var x in (List<ProjectK.Models.Products>)TempData["products"])
+                    {
+                                <tr>
+                                    
+                                    <td>@x.ProductName</td>
+                                    <td>@x.Quantity</td>
+                                    <td>@x.Price</td>
+                                    <td>
+                                    <a href="~/BookProduct/BookProduct" >Order Product</a>
+                                    
+                                    </td>
+                                </tr>
+                        
+                    }
+                }
+            }
+            catch
+            {
+                
+            }
+        }
+
+
+
+    </table>
+
+</div>

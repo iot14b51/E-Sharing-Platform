@@ -1,0 +1,46 @@
+﻿<div class="container mb-3">
+    
+    <a href="~/Services/Add" class="btn btn-success" >Add Service</a>
+
+
+</div>
+
+<div class="container">
+    <table class="table table-bordered table-hover ">
+        <tr class="bg-success text-white">
+            
+            <th>ServicName</th>
+            <th>Price</th>
+            <th>Actions</th>
+           
+        </tr>
+        @{
+            try
+            {
+ 
+                    foreach (var x in (List<ProjectK.Models.Services>)TempData["services"])
+                    {
+                                <tr>
+                                    
+                                    <td>@x.ServiceName</td>
+                                    <td>@x.Price</td>
+                                    <td>
+                                    <a href="~/Services/Edit/?id=@x.Id" class="btn btn-warning">Update Service</a>
+                                    <a href="~/Services/Delete/?id=@x.Id" class=" btn btn-danger" style="margin-left:2%">Remove Service</a>
+                                    </td>
+                                </tr>
+                        
+                    }
+                
+            }
+            catch
+            {
+                
+            }
+        
+
+      }
+
+    </table>
+
+</div>

@@ -1,0 +1,62 @@
+﻿@model ProjectK.Models.AdminLogin
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1>Admin Login</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Login">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="AdminId" class="control-label"></label>
+                <input asp-for="AdminId" class="form-control" />
+                <span asp-validation-for="AdminId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-md-4">
+                <input type="submit" value="Login" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@*<div>
+    <a asp-action="Index">Back to List</a>
+</div>*@
+
+@{
+    try
+    {
+        if(TempData["status"] !=null)
+        {
+            if(TempData["status"] == "1")
+            {
+                <script>
+                swal("Login Sucecssful!", " Successful", "success");
+                </script>
+            }
+            else
+            {
+                <script>
+                swal("Login Failed", "Incorrect Passwor/Id", "error");
+                </script>
+            }
+        }
+    }
+    catch
+    {
+        
+    }
+}
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
